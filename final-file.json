@@ -1,0 +1,33 @@
+[
+{"type":"header","version":"5.1.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"final-file"},
+{"type":"table","name":"failed_jobs","database":"final-file","data":
+[
+
+]
+}
+,{"type":"table","name":"files","database":"final-file","data":
+[
+{"id":"1","UserId":"1","title":"rewasdtgjkliuyt","desc":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","file":"0xd8a7d984d8b3d984d8a7d8add9812bd9882bd8a7d984d983d988d8af2b5375627469746c65732e7a6970","created_at":"2021-06-20 22:11:03","updated_at":"2021-06-20 22:11:03"}
+]
+}
+,{"type":"table","name":"migrations","database":"final-file","data":
+[
+{"id":"1","migration":"2014_10_12_000000_create_users_table","batch":"1"},
+{"id":"2","migration":"2014_10_12_100000_create_password_resets_table","batch":"1"},
+{"id":"3","migration":"2019_08_19_000000_create_failed_jobs_table","batch":"1"},
+{"id":"4","migration":"2021_06_19_173447_create_files_table","batch":"1"}
+]
+}
+,{"type":"table","name":"password_resets","database":"final-file","data":
+[
+
+]
+}
+,{"type":"table","name":"users","database":"final-file","data":
+[
+{"id":"1","name":"abdallah","email":"abdalla.ashraf31@yahoo.com","email_verified_at":null,"password":"$2y$10$2vhv56aEkPbnPrM\/OhWhzunYgEb5PIiVx7Pz5qgQdngEGWWWpsOsG","remember_token":null,"created_at":"2021-06-20 22:10:26","updated_at":"2021-06-20 22:10:26"},
+{"id":"2","name":"mohumed","email":"abdallahashraf743@gmail.com","email_verified_at":null,"password":"$2y$10$K0yLc8AqZiG7vP\/XFb8ZN.iJEnryvNxAgvJw5UVBtTqekiUb.nxwC","remember_token":null,"created_at":"2021-06-20 22:16:48","updated_at":"2021-06-20 22:16:48"}
+]
+}
+]
